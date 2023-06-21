@@ -18,7 +18,7 @@ These instructions will help you get a copy of the SPEED project up and running 
 - HTML/CSS
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/SINGHAJS/Farm-Direct.git`
+1. Clone the repository: `git clone https://github.com/SINGHAJS/SPEED.git`
 
 ### Backend Setup
 1. Change your current directory to the backend folder: `cd SPEED/backend`
